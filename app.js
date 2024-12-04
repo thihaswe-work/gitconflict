@@ -1,7 +1,6 @@
-const hello = function (c, d) {
-  return c + d;
+const myfunc = function (a, b) {
+  console.log("a is", a, "b is", b);
 };
-console.log("hello");
 
-const c = hello(1, 2);
-console.log(c);
+console.log("test");
+myfunc("hello", "world");
