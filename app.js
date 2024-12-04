@@ -1,7 +1,7 @@
-const myfunc = function (a, b) {
+const hello = function (a, b) {
   return a - b;
 };
 console.log("hello");
 
-const c = myfunc(1, 2);
+const c = hello(1, 2);
 console.log(c);
