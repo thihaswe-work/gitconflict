@@ -1,5 +1,5 @@
-const hello = function (a, b) {
-  return a - b;
+const hello = function (c, d) {
+  return c + d;
 };
 console.log("hello");
 
